@@ -1,14 +1,3 @@
-// EXERCÍCIO 1
-
-let idade = 25; 
-if (idade >= 16) { 
-    console.log("Pode votar!");
-} else { 
-    console.log("Não pode votar!"); 
-}
-
-// EXERCÍCIO 2
-
 let diaDaSemana = 'terça'; 
 switch (diaDaSemana) { 
     case 'domingo': console.log('Hoje é domingo!'); break; 
